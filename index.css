@@ -1,0 +1,32 @@
+body {
+    background-color: #0a0d0c;
+    position: fixed;
+
+}
+
+.nav a {
+  color: #FFFFFF;
+  font-size: 15px;
+  font-family: impact, fantasy;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  padding: 1px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+ display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://40.media.tumblr.com/0b5cee17f1c940122dde4a33405c5821/tumblr_nysmrygPVi1v0gbkbo1_1280.jpg');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  width: 1280px;
+  height: 720px;
+}
+
+.jumbotron .container {
+    position: relative;
+}
